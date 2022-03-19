@@ -10,3 +10,7 @@ Dependencies Used - :
  Kotlin coroutines. 
  Firebase authentication for google, facebook and email login.
  Navigation Component for navigating between activities.
+
+
+https://user-images.githubusercontent.com/82255621/159106935-9b13152c-fbbf-4892-90ca-40c2fdf67075.mp4
+
