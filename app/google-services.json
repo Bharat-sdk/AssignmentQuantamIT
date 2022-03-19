@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571093060557",
+    "project_id": "assignment-quantum-it",
+    "storage_bucket": "assignment-quantum-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571093060557:android:67dd504547090bea94d284",
+        "android_client_info": {
+          "package_name": "com.makertech.assignmentquantamit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571093060557-1jvd0e4qs8r0f36om9gsjn8s5nq27qp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBDfWPRUr_GAV8XI6pz4HXbuk3H0DGn5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571093060557-1jvd0e4qs8r0f36om9gsjn8s5nq27qp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
